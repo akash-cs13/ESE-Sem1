@@ -1,0 +1,74 @@
+# Unit Testing - Traffic Signal Scheduler 
+This project implements a traffic signal scheduler using C++ with a focus on modular design and unit testing.
+
+## Project Structure
+The project is organized into two main modules: `TrafficSignal` and `Scheduler`. Each module has its own header and implementation files.
+
+### TrafficSignal Module
+The `TrafficSignal` module defines a C++ class `TrafficSignal` with an enumeration `TrafficSignalState` representing different states of a traffic signal.
+
+### Scheduler Module
+
+The `Scheduler` module implements a scheduler that manages two traffic signals (North-South and East-West). It uses the `TrafficSignal` module for signal control.
+
+## Building the Project
+
+The project uses CMake for building, and `g++` as the compiler. Make sure you have CMake and a compatible C++ compiler installed.
+
+### Build Commands
+
+#### Step 1: Build TrafficSignal Module
+
+```bash
+cd TrafficSignal
+g++ -c TrafficSignal.cpp -o TrafficSignal.o
+```
+
+#### Step 2: Build Scheduler Module
+```bash
+cd Scheduler
+g++ -c Scheduler.cpp -o Scheduler.o
+```
+
+#### Step 3: Building the main executible
+```bash
+g++ -std=c++17 -Wall -Wextra -Wpedantic -I./TrafficSignal -I./Scheduler -I./doctest -T./DefectFixer -o main.exe main.cpp TrafficSignal/TrafficSignal.cpp Scheduler/Scheduler.cpp
+```
+
+## Unit Testing
+The project uses doctest for unit testing. Tests are written in the main.cpp file.
+
+### Running Tests
+```bash
+./main
+```
+Test results are in `UnitTestResults.txt`. Test Suites and Test Cases used are
+
+#### **Test Suite**: TrafficSignal
+
+- **Test Case**: State Check
+
+#### **Test Suite**: Scehduler
+
+- **Test Case**: Time 10
+- **Test Case**: Time 30
+- **Test Case**: Time 28
+
+#### **Test Suite**: Emergency
+
+- **Test Case**: Emergency at NS
+- **Test Case**: Emergency at EW
+
+#### **Test Suite**: DefectiveTests
+
+- **Test Case**: Invalid Traffic Signal ID
+- **Test Case**: Invalid Scheduler Initialization
+- **Test Case**: Invalid Time for Scheduler
+- **Test Case**: Invalid TrafficSignalState for Set State
+- **Test Case**: Invalid TrafficSignalState Transition
+  
+#### **Test Suite**: DefectiveTests Fixer
+
+- **Test Case**: Fix Invalid Traffic Signal ID
+  
+
