@@ -1,6 +1,7 @@
 # ESE - Semester Project - Team 5
 # Roles and Responsibilities
 Team together: brainstormed together the use cases.
+
 Krithika P: Deriving requirements diagram, Context diagram, block diagram, activity diagram and fault tree analysis. 
             Worked on inspection of internal block diagram, parametric constraints and code.
             
