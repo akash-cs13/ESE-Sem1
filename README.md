@@ -19,6 +19,7 @@ Team together worked collaboratively in writing the paper.
 # Details on the EA Files
 SmartCity_Doc1: Contains the Requirements Diagram, Activity Diagrams, Allocation diagram, Block Diagram, Internal Block Diagrams and Parametric Constraint Diagrams.
 SmartCity_Doc2: Contains the Context Diagram and Sequence Diagrams
+State_Machine_Diagram: Contains State Machine Diagram
 
 ## Implementation Links
 1. [Scheduling Simulation](https://wokwi.com/projects/387018496716680193)
