@@ -1,11 +1,12 @@
 # ESE - Semester Project - Team 5
 # Roles and Responsibilities
-Team together: brainstormed together the use cases.
+Team : brainstormed together the use cases.
 
 Krithika P: Deriving requirements diagram, Context diagram, block diagram, activity diagram and fault tree analysis. 
             Worked on inspection of internal block diagram, parametric constraints and code.
             
-Madhukar D: Worked on sequence diagrams, allocation diagrams, internal block diagram, parametric constraint diagram.
+Madhukar D: Designing Sequence Diagrams, Allocation Diagrams, Internal Block Diagram and Parametric Constraint Diagram.
+            Worked on inspection of State Machine Diagram and Simulation.
 
 Akhil N   : Worked on state machine diagram and implementation on wokwi.
 
