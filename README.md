@@ -7,7 +7,8 @@ Team : brainstormed together the use cases.
    - Worked on Inspection of Fault Tree Analysis
 
 2. **Akhil Narayanaswamy:**
-   - Worked on State Machine Diagram and Implementation on wokwi and inspected the Activity Diagram and Sequence Diagram
+   - Worked on State Machine Diagram and Implementation on wokwi.
+   - Inspected the Activity Diagram and Sequence Diagram.
 
 3. **Krithika Premkumar:**
    - Deriving Requirements Diagram, Context Diagram, Block Diagram, Activity Diagrams and Fault Tree Analysis
