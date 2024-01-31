@@ -2,26 +2,27 @@
 
 # Roles and Responsibilities
 Team : brainstormed together the use cases.
+1. **Akash Cuntur Shrinivasmurthy:**
+   - Worked on Scheduling Simulation and Unit Testing
+   - Worked on Inspection of Fault Tree Analysis
 
-Krithika P: Deriving Requirements Diagram, Context Diagram, Block Diagram, Activity Diagrams and Fault Tree Analysis. 
-            Worked on inspection of Internal Block Diagram, Parametric Constraints and code.
-            
-Madhukar D: Designing Sequence Diagrams, Allocation Diagrams, Internal Block Diagram and Parametric Constraint Diagram.
-            Worked on inspection of State Machine Diagram and Simulation.
+2. **Akhil Narayanaswamy:**
+   - Worked on State Machine Diagram and Implementation on wokwi and inspected the Activity Diagram and Sequence Diagram
 
-Akhil N   : Worked on State Machine Diagram and Implementation on wokwi and inspected the Activity Diagram and Sequence Diagram.
+3. **Krithika Premkumar:**
+   - Deriving Requirements Diagram, Context Diagram, Block Diagram, Activity Diagrams and Fault Tree Analysis
+   - Worked on inspection of Internal Block Diagram, Parametric Constraints and code
 
-Akash C   : Worked on Scheduling Simulation and Unit Testing.
-            Worked on Inspection of Fault Tree Analysis.
-            
+4. **Madhukar Devendrappa:**
+   - Designed Sequence Diagrams, Allocation Diagrams, Internal Block Diagram and Parametric Constraint Diagram
+   - Worked on inspection of Internal Block Diagram, Parametric Constraints and code
+
 Team together worked collaboratively in writing the paper.
 
 # Details on the EA Files
-SmartCity_Doc1: Contains the Requirements Diagram, Activity Diagrams, Allocation diagram, Block Diagram, Internal Block Diagrams and Parametric Constraint Diagrams.
-
-SmartCity_Doc2: Contains the Context Diagram and Sequence Diagrams.
-
-State_Machine_Diagram: Contains State Machine Diagram.
+   - SmartCity_Doc1: Contains the Requirements Diagram, Activity Diagrams, Allocation diagram, Block Diagram, Internal Block Diagrams and Parametric Constraint Diagrams
+   - SmartCity_Doc2: Contains the Context Diagram and Sequence Diagrams
+   - State_Machine_Diagram: Contains State Machine Diagram
 
 # Paper
 ESE_SmartCity_Team5_Paper.pdf : Paper detailing the work of our team.
