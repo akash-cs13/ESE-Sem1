@@ -1,5 +1,15 @@
 # ESE - Semester Project - Team 5
-
+# Roles and Responsibilities
+Team together: brainstormed together the use cases.
+Krithika P: Deriving requirements diagram, Context diagram, block diagram, activity diagram and fault tree analysis. 
+            Worked on inspection of internal block diagram, parametric constraints and code.
+Madhukar D: Worked on sequence diagrams, allocation diagrams, internal block diagram, parametric constraint diagram.
+Akhil N   : Worked on state machine diagram and implementation on wokwi.
+Akash C   : Worked on scheduling simulation and unit testing.
+            Worked on inspection of fault tree analysis.
+Team together worked collaboratively in writing the paper.
+# Details on the EA Files
+SmartCity_Doc1: Contains the requirements diagram, activity diagrams, allocation diagrams, block diagrams, internal block diagrams, parametric constraint diagrams.
 ## Implementation Links
 1. [Scheduling Simulation](https://wokwi.com/projects/387018496716680193)
 
