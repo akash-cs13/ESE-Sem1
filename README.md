@@ -8,7 +8,7 @@ Krithika P: Deriving requirements diagram, Context diagram, block diagram, activ
 Madhukar D: Designing Sequence Diagrams, Allocation Diagrams, Internal Block Diagram and Parametric Constraint Diagram.
             Worked on inspection of State Machine Diagram and Simulation.
 
-Akhil N   : Worked on state machine diagram and implementation on wokwi.
+ Akhil N: Worked on State Machine Diagram and implementation on Wokwi and inspected the Activity Diagram and Sequence Diagram.
 
 Akash C   : Worked on scheduling simulation and unit testing.
             Worked on inspection of fault tree analysis.
