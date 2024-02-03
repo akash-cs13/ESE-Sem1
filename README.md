@@ -16,7 +16,7 @@ Team : brainstormed together the use cases.
 
 4. **Madhukar Devendrappa:**
    - Designed Sequence Diagrams, Allocation Diagrams, Internal Block Diagram and Parametric Constraint Diagram
-   - Worked on inspection of Internal Block Diagram, Parametric Constraints and code
+   - Worked on inspection of State Machine Diagram and Simulation
 
 Team together worked collaboratively in writing the paper.
 
